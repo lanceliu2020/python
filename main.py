@@ -6,4 +6,5 @@ for i in b:
     timeCheck.append(str(i))
 s = int("".join(timeCheck))
 print(s)
-
+print("hello")
+print("Hello World")
