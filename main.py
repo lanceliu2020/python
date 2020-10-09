@@ -1,10 +1,1 @@
-a= [1,2,3,5,9,9]
-b = sorted(a)
-
-timeCheck = []
-for i in b:
-    timeCheck.append(str(i))
-s = int("".join(timeCheck))
-print(s)
-print("hello")
-print("Hello World")
+print(123)
